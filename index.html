@@ -61,7 +61,7 @@
         <h3> Code: </h3>
       <pre>
 function factorial(n){
-  if(n &lt; 0 || n > 12){
+  if(n &lt; 0 || n &gt; 12){
       throw new RangeError();
   }else{
 return n ? n*factorial(n-1):1;
