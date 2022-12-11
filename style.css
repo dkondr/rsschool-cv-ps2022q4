@@ -1,4 +1,4 @@
-body {
+  body{
     margin: 0;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-size: 18px; 
@@ -8,15 +8,16 @@ body {
     background-size: 100%;
     background: #fff;
   }
+
   .nav{
     width: 100%;
     text-align: center;
-  }
+ }
 
   .nav-link{
     text-decoration: none;
     color: rgb(0, 0, 0);
-  }
+ }
 
   .nav-list li{
     display: inline-block;
@@ -66,8 +67,8 @@ body {
  }
 
  .section {
-  width: 50%;
-}
+    width: 50%;
+ }
 
   .bio {
     display: flex;
@@ -85,7 +86,6 @@ body {
 
   .list{
     list-style-type: none;
-  
   }
 
   .text-justify{
@@ -93,12 +93,12 @@ body {
   }
 
   h2, h4{
-     margin: 0 auto;
+    margin: 0 auto;
   }
 
   .avatar{
-      padding-top: 5px;
-      border-radius: 50%;
+    padding-top: 5px;
+    border-radius: 50%;
   }
   .container {
     display: flex;
@@ -107,7 +107,7 @@ body {
     margin: 0 auto;
     padding: 0px;
   }
-  
+
   .git{
     display: inline;
     width: 60px;
