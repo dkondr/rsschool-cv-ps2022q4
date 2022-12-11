@@ -18,8 +18,6 @@
 + FIGMA 
 
  ## **✍ Sample code:**
-
-
    >  js: 
 ```javascript
        function factorial(n){ 
