@@ -40,3 +40,7 @@ Practical experience in web development and programming is small.
 * *YouTube:* video courses on HTML, CSS, JS, Git
 * *JavaScript:* learn.javascript.ru
 * *Javarush:* CS50
+
+## **💂‍♂️ Language:**
+* *Russian* - native 
+* *English* - Pre-Intermediate(A1)
